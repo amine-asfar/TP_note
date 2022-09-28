@@ -1,0 +1,22 @@
+.annonce{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 3px;
+}
+img{
+    width: 350px;
+    height: 250px;
+   
+    object-fit:cover;
+}
+a{
+    color: black;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
