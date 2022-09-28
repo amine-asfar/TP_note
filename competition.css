@@ -1,0 +1,19 @@
+body{
+    padding: 50px;
+    
+}
+img{
+    width: 600px;
+    margin-bottom: 20px;
+}
+a{
+    color: white;
+
+    background-image: linear-gradient(#9356dc, #ff79da);
+    border-radius: 100px;
+    padding: 10px;
+    cursor: pointer;
+   
+
+}
+
